@@ -120,7 +120,7 @@
   margin-top: 2em;
 }
 .black-theme .card a.button:hover {
-  background: rgba(220, 220, 220, 0.7);
+  background: rgba(142, 35, 35, 0.7);
 }
 
 .white-theme {
@@ -248,3 +248,13 @@
     transform: rotate(360deg);
   }
 }
+
+footer {
+  background-color: rgba(255, 152, 108, 0.25);
+  display: flex;
+  justify-content: space-between;
+  gap: 64px 80px;
+  padding: 64px 80px;
+}
+
+
